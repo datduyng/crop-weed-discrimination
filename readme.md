@@ -33,6 +33,6 @@ Input: Image(RGB)
     - `10%` of Dataset is testset 
 
 - Machine Learning Technique on Image 
-    - [Logistic Regression](Logistic-Regression-Plants-weeds-Model.ipynb) (On Going) 
+    - [Logistic Regression](./experiment/Logistic-Regression-Plants-weeds-Model.ipynb) (On Going) 
         - Accuracy: 56.3 %(More improvement will be make on this) 
 
