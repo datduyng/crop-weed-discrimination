@@ -25,7 +25,6 @@
 - [Preprocessing and get Familiar with Dataset](https://www.kaggle.com/datduyn/preprocessing-plants-weeds-data-model/)
     - `10%` of Dataset is `testset `
 
-
 |			Model  		| Best Accuracy |Note|Status  |  
 |-----------------------|---------------|----|--------|
 |[Logistic Regression](https://www.kaggle.com/datduyn/logist-regression-on-plants-weeds-discrimination/edit)|     57%		|    |Tuning  |
