@@ -20,19 +20,14 @@
 ## Working Flowchart
 
 ## Model break down
-- [Plant blob coordinate](./experiment/Plants-weeds-blob-detection.ipynb)
-```
-Algorithm: 
-Input: Image(RGB)
-    1. Find contour -> array of vector
-    2. Find min bounding box for each vector
-    3. Remove overlap box 
-    4. Tokenize each box from original image
-```
-- [Preprocessing and get Familiar with Dataset](./experiment/Classifier-Data-Preprocessing.ipynb)
-    - `10%` of Dataset is testset 
+- Determine plant coordinate in input images/video
+	- [Plant blob coordinate](./experiment/Plants-weeds-blob-detection.ipynb)
+- [Preprocessing and get Familiar with Dataset](https://www.kaggle.com/datduyn/preprocessing-plants-weeds-data-model/)
+    - `10%` of Dataset is `testset `
 
-- Machine Learning Technique on Image 
-    - [Logistic Regression](Logistic-Regression-Plants-weeds-Model.ipynb) (On Going) 
-        - Accuracy: 56.3 %(More improvement will be make on this) 
 
+|			Model  		| Best Accuracy |Note|Status  |  
+|-----------------------|---------------|----|--------|
+|[Logistic Regression](https://www.kaggle.com/datduyn/logist-regression-on-plants-weeds-discrimination/edit)|     57%		|    |Tuning  |
+|[2 Layer Net](https://www.kaggle.com/datduyn/2-layer-net-on-weeds-discriminant/)|   			|    |On Going|
+|   					|  				|    |
