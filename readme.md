@@ -19,9 +19,7 @@
 
 ## Working Flowchart
 
-## 
-[Dataset](https://www.kaggle.com/datduyn/2-layer-net-on-weeds-discriminant?scriptVersionId=8918250)
-
+## Dataset 
 - This image dataset has 15336 segments, being 3249 of soil, 7376 of 
 soybean, 3520 grass and 1191 of broadleaf weeds.
 - We want the model to uniformly learn all classes therefore,
@@ -43,3 +41,6 @@ soybean, 3520 grass and 1191 of broadleaf weeds.
 |[Logistic Regression](https://www.kaggle.com/datduyn/logist-regression-on-plants-weeds-discrimination/edit)|59.5%|    |  |
 |[2 Layer Net](https://www.kaggle.com/datduyn/2-layer-net-on-weeds-discriminant/)|76.5%|    |Hyper Tuning|
 |SVM with Dimension reduction|  				|    |
+
+## References 
+- [Link to dataset](https://www.kaggle.com/fpeccia/weed-detection-in-soybean-crops)
