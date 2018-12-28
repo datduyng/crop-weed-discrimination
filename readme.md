@@ -19,6 +19,16 @@
 
 ## Working Flowchart
 
+## 
+[Dataset](https://www.kaggle.com/datduyn/2-layer-net-on-weeds-discriminant?scriptVersionId=8918250)
+
+- This image dataset has 15336 segments, being 3249 of soil, 7376 of 
+soybean, 3520 grass and 1191 of broadleaf weeds.
+- We want the model to uniformly learn all classes therefore,
+	- training set: 4000 images(1000 each classes) 
+	- validation set: 200 images(50 each classes)	
+	- test: 200(50 each classes) 
+
 ## Model break down
 - Determine plant coordinate in input images/video
 	- [Plant blob coordinate](./experiment/Plants-weeds-blob-detection.ipynb)
