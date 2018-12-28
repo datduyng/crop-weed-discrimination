@@ -26,6 +26,8 @@
     - `10%` of Dataset is `testset `
 - Problem: 
     - limited dataset. with roughly `10,000` more images each model below will achieve `7.5 - 15%` more
+    
+    
 |			Model  		| Best Accuracy |Note|Status  |  
 |-----------------------|---------------|----|--------|
 |[Logistic Regression](https://www.kaggle.com/datduyn/logist-regression-on-plants-weeds-discrimination/edit)|59.5%|    |  |
