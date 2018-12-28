@@ -24,9 +24,10 @@
 	- [Plant blob coordinate](./experiment/Plants-weeds-blob-detection.ipynb)
 - [Preprocessing and get Familiar with Dataset](https://www.kaggle.com/datduyn/preprocessing-plants-weeds-data-model/)
     - `10%` of Dataset is `testset `
-
+- Problem: 
+    - limited dataset. with roughly `10,000` more images each model below will achieve `7.5 - 15%` more
 |			Model  		| Best Accuracy |Note|Status  |  
 |-----------------------|---------------|----|--------|
-|[Logistic Regression](https://www.kaggle.com/datduyn/logist-regression-on-plants-weeds-discrimination/edit)|     57%		|    |Tuning  |
-|[2 Layer Net](https://www.kaggle.com/datduyn/2-layer-net-on-weeds-discriminant/)|   			|    |On Going|
-|   					|  				|    |
+|[Logistic Regression](https://www.kaggle.com/datduyn/logist-regression-on-plants-weeds-discrimination/edit)|     59.5%		|    |  |
+|[2 Layer Net](https://www.kaggle.com/datduyn/2-layer-net-on-weeds-discriminant/)|   		76.5%|    |Hyper Tuning|
+|SVM with Dimension reduction|  				|    |
