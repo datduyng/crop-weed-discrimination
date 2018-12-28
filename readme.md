@@ -17,7 +17,11 @@
 - Machine learning vision is wide area of research. Automated Crops and weed control will save cost and reduce environment impact. 
 
 
+
 ## Working Flowchart
+
+
+## Model break down
 
 ## Dataset 
 - This image dataset has 15336 segments, being 3249 of soil, 7376 of 
@@ -27,7 +31,7 @@ soybean, 3520 grass and 1191 of broadleaf weeds.
 	- validation set: 200 images(50 each classes)	
 	- test: 200(50 each classes) 
 
-## Model break down
+## Difference Learning model on Dataset
 - Determine plant coordinate in input images/video
 	- [Plant blob coordinate](./experiment/Plants-weeds-blob-detection.ipynb)
 - [Preprocessing and get Familiar with Dataset](https://www.kaggle.com/datduyn/preprocessing-plants-weeds-data-model/)
