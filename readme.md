@@ -18,6 +18,7 @@
 
 
 
+
 ## Working Flowchart
 
 
@@ -43,8 +44,12 @@ soybean, 3520 grass and 1191 of broadleaf weeds.
 |			Model  		| Best Accuracy |Note|Status  |  
 |-----------------------|---------------|----|--------|
 |[Logistic Regression](https://www.kaggle.com/datduyn/logist-regression-on-plants-weeds-discrimination/edit)|59.5%|    |  |
+|HSV space - 2 Layer net| 34.5%  				|Bad Overall    |
 |[2 Layer Net](https://www.kaggle.com/datduyn/2-layer-net-on-weeds-discriminant/)|76.5%|    |Hyper Tuning|
-|SVM with Dimension reduction|  				|    |
+
 
 ## References 
 - [Link to dataset](https://www.kaggle.com/fpeccia/weed-detection-in-soybean-crops)
+###### Keyword
+[Kaggle](kaggle.com) | Neural net | [Open CV](https://opencv.org/) | [Pytorch](https://pytorch.org/) | [Jupyter notebook](https://jupyter.org/)  | [Python3](https://www.python.org/) 
+
