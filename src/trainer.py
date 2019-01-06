@@ -1,14 +1,9 @@
 '''cs231n class'''
-from __future__ import print_function, division
-from future import standard_library
-standard_library.install_aliases()
-from builtins import range
-from builtins import object
 import os
 import pickle as pickle
-
 import numpy as np
-import net_utils
+
+from nettool import optim
 
 
 class Trainer(object):

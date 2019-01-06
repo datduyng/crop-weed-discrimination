@@ -45,7 +45,8 @@ soybean, 3520 grass and 1191 of broadleaf weeds.
 |-----------------------|---------------|----|--------|
 |[Logistic Regression](https://www.kaggle.com/datduyn/logist-regression-on-plants-weeds-discrimination/edit)|59.5%|    |  |
 |HSV space - 2 Layer net| 34.5%  				|Bad Overall    |
-|[2 Layer Net](https://www.kaggle.com/datduyn/2-layer-net-on-weeds-discriminant/)|76.5%|    |Hyper Tuning|
+|[2 Layer Net](https://www.kaggle.com/datduyn/2-layer-net-on-weeds-discriminant/)|76.5%(Not stable)|    ||
+|[Fully Connected Net](./experiment/Fully-Connected-Layer.ipynb)|78.5%(More stable)|||
 
 
 ## References 
